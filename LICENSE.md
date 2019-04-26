@@ -1,6 +1,8 @@
 The MIT License (MIT)
 
+Copyright (c) 2016 lixinliang
 Copyright (c) 2017 lixinliang
+Copyright (c) 2019 Robert Zack Jaidyn Norris-Karr (https://github.com/rzjnzk)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
