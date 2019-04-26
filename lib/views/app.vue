@@ -46,7 +46,7 @@ export default {
             NAME,
             tags : [],
             active : false,
-            placeholder : 'Type...',
+            placeholder : 'Filter',
         };
     },
     async mounted () {
