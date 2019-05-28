@@ -1,7 +1,7 @@
 [![apm](https://img.shields.io/apm/l/tree-view-search-bar.svg)](https://atom.io/packages/tree-view-search-bar)
 [![apm](https://img.shields.io/apm/v/tree-view-search-bar.svg)](https://atom.io/packages/tree-view-search-bar)
 [![apm](https://img.shields.io/apm/dm/tree-view-search-bar.svg)](https://atom.io/packages/tree-view-search-bar)
-[![Twitter](https://img.shields.io/badge/twitter-@qq393464140-blue.svg)](http://twitter.com/qq393464140)
+[![Twitter](https://img.shields.io/badge/twitter-@qq393464140-blue.svg)](http://twitter.com/qq393464140) [![Greenkeeper badge](https://badges.greenkeeper.io/rzjnzk/atom-file-tree-filter.svg)](https://greenkeeper.io/)
 
 # tree-view-search-bar
 > 🔍 A file/directory filter plugin.
